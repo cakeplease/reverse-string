@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  *
  * @author kasia
- * @version 1.0
+ * @version 1.1
  */
 public class ReverseString {
     
