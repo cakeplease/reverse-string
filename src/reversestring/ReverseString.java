@@ -16,7 +16,7 @@ public class ReverseString {
     public static void main(String[] args) {
 	boolean running = true;
 	while(running) {
-	    System.out.println("Enter string to reverse or write quite to exit");
+	    System.out.println("Enter string to reverse or write quit to exit");
 	    Scanner scanner = new Scanner(System.in);
 	    String userString = scanner.nextLine();
 	    
